@@ -1,12 +1,5 @@
-# 🚀 Projet Multi-Cloud "Fun & Impressionnant" avec Pulumi et Terraform (Dynamique CSV)
+# 🚀 Terraform & Pullumi
 
-Bienvenue dans ce projet d'orchestration d'infrastructure multi-cloud, conçu pour être à la fois **robuste**, **éducatif** et **fun** !
-
-Ce dépôt contient l'implémentation d'une architecture simple mais complète (un serveur web et une base de données) déployée sur deux plateformes cloud distinctes : **Amazon Web Services (AWS)** et **OpenStack**.
-
-Nous utilisons deux outils d'Infrastructure as Code (IaC) leaders du marché :
-1.  **Terraform** (HCL) : Pour une approche déclarative standard.
-2.  **Pulumi** (Python) : Pour une approche programmatique moderne.
 
 ---
 
