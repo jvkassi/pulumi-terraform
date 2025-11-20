@@ -1,0 +1,5 @@
+name,cloud,type,role,disk_size_gb
+web-prod-01,aws,t2.micro,web,10
+db-staging-01,aws,t2.medium,db,50
+web-test-01,openstack,m1.small,web,10
+api-test-01,openstack,m1.small,api,10

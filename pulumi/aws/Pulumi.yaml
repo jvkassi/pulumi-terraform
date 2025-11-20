@@ -1,0 +1,5 @@
+name: pulumi-aws-fun
+runtime: python
+description: Déploiement d'une infrastructure web simple sur AWS avec Pulumi.
+config:
+  aws:region: eu-west-3

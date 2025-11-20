@@ -1,0 +1,12 @@
+name: pulumi-openstack-fun
+runtime: python
+description: Déploiement d'une infrastructure web simple sur OpenStack avec Pulumi.
+config:
+  image_id:
+    description: "ID de l'image (cirros, ubuntu, etc.) pour l'instance Nova"
+  key_pair_name:
+    description: "Nom de la paire de clés SSH existante dans OpenStack"
+  external_network_id:
+    description: "ID du réseau externe (public) pour le routeur"
+  external_network_name:
+    description: "Nom du réseau externe (public) pour la Floating IP"
